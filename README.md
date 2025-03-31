@@ -1,1 +1,52 @@
+SIEM Implementation Using Microsoft Azure for Virtual Machines
 
+Project Overview
+
+This project was completed in order to configure log aggregation, threat detection, and create custom alerts on a virtual network as a practice run for my home network in the near future.
+
+Key Features
+
+* Implemented Azure Sentinel to collect, analyze, and notify of security events.
+
+* Configured log collection from the virtual machine to the Azure Dashboard.
+
+* Enabled custom detection rules for when detecting non-typical logins.
+
+* Created security alerts based on that custom detection rules.
+
+* Enabled constant detection when the virtual machine is online.
+
+Implementation Steps
+
+1. Setup The Azure Environment
+
+Created an Azure subscription utulizing the free credit granted for new accounts.
+
+Created virtual machine.
+
+Configured the necessary networking and access policies.
+
+2. Configure and Deploy Azure Sentinel
+
+Utulized free trial to install Azure Sentinel.
+
+Activated Azure Sentinel in the Azure portal.
+
+Connected Azure Log Analytics Workspace to Sentinel.
+
+4. Implement Security Rules and Analytics
+
+Created custom log queries using Kusto Query Language (KQL).
+
+Defined security rules for threat detection.
+
+5. Enable Custom Alerts and Threat Detection
+
+Configured alerting based on non-normal logins.
+
+Tested and validated detection rules for accuracy with personal computer.
+
+6. Monitor and Optimize
+
+Analyzed security incidents in the Sentinel dashboard.
+Fixed issue where all logins registered as instrusions.
