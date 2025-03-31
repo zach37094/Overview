@@ -49,4 +49,5 @@ Tested and validated detection rules for accuracy with personal computer.
 6. Monitor and Optimize
 
 Analyzed security incidents in the Sentinel dashboard.
+
 Fixed issue where all logins registered as instrusions.
