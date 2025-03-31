@@ -7,7 +7,7 @@ I am actively pursuing a bachelors degree in Computer Science with a focus on Cy
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Installing a SIEM| Log management, Security Controls   | Sentinel, Azure|  <a href="README.md">SIEM</a>   |
+| Installing a SIEM| Log management, Security Controls   | Sentinel, Azure|  <a href="Project Overview">SIEM</a>   |
 
 
 # Certifications 
