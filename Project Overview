@@ -6,41 +6,47 @@ This project was completed in order to configure log aggregation, threat detecti
 
 Key Features
 
-Implemented Azure Sentinel to collect, analyze, and notify of security events.
+* Implemented Azure Sentinel to collect, analyze, and notify of security events.
 
-Configured log collection from the virtual machine to the Azure Dashboard.
+* Configured log collection from the virtual machine to the Azure Dashboard.
 
-Enabled custom detection rules for when detecting non-typical logins.
+* Enabled custom detection rules for when detecting non-typical logins.
 
-Created security alerts based on that custom detection rules.
+* Created security alerts based on that custom detection rules.
 
-Enabled constant detection when the virtual machine is online.
+* Enabled constant detection when the virtual machine is online.
 
 Implementation Steps
 
-Setup The Azure Environment
+1. Setup The Azure Environment
+
 Created an Azure subscription utulizing the free credit granted for new accounts.
 
 Created virtual machine.
 
 Configured the necessary networking and access policies.
 
-Configure and Deploy Azure Sentinel
+2. Configure and Deploy Azure Sentinel
+
 Utulized free trial to install Azure Sentinel.
 
 Activated Azure Sentinel in the Azure portal.
 
 Connected Azure Log Analytics Workspace to Sentinel.
 
-Implement Security Rules and Analytics
+4. Implement Security Rules and Analytics
+
 Created custom log queries using Kusto Query Language (KQL).
 
 Defined security rules for threat detection.
 
-Enable Custom Alerts and Threat Detection
+5. Enable Custom Alerts and Threat Detection
+
 Configured alerting based on non-normal logins.
 
 Tested and validated detection rules for accuracy with personal computer.
 
-Monitor and Optimize
-Analyzed security incidents in the Sentinel dashboard. Fixed issue where all logins registered as instrusions.
+6. Monitor and Optimize
+
+Analyzed security incidents in the Sentinel dashboard.
+Fixed issue where all logins registered as instrusions.
