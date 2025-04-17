@@ -15,5 +15,5 @@ I am actively pursuing a bachelors degree in Computer Science with a focus on Cy
 |     Certification     |               Completed?               |     ID       |
 | --------------------  | -------------------------------------- | ---------------| 
 | CompTIA Security+     |                02/03/2025              |   COMP001022722412  | 
-| Cisco CCNA            |           est  04/21/2025              |     N/A      | 
-| ISC2 associates CISSP |           est  12/31/2025              |     N/A      |
+| Cisco CCNA            |                in progress             |     N/A      | 
+| ISC2 associates CISSP |                in progress             |     N/A      |
